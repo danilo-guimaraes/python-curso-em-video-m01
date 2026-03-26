@@ -24,7 +24,7 @@ First module of my Python learning journey. 23 exercises covering the absolute f
 ## 📊 Progress
 
 - **Exercises completed:** 23
-- **Next module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow)
+- **Next module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/python-curso-em-video-m02)
 - **Overall progress:** Module 01 → 02 → 03 ✅ → 04 (in progress)
 
 ## 👤 Author
