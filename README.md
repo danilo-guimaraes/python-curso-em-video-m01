@@ -1,36 +1,33 @@
-# 🐍 Desafios de Python: Mundo 1 (Fundamentos)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Estácio-ADS-blue?style=for-the-badge" alt="Estácio ADS Badge">
-  <img src="https://img.shields.io/badge/Mundo-1%20Concluído-blueviolet?style=for-the-badge" alt="Mundo 1">
-</div>
-
-<br>
-
-## 📝 Sobre este Repositório
-Este projeto reúne os meus primeiros passos na programação com **Python**. Aqui estão resolvidos os 23 primeiros desafios do Mundo 1 do Curso em Vídeo, focados em lógica e conceitos fundamentais. Este esforço faz parte da minha formação em **Análise e Desenvolvimento de Sistemas** na **Estácio**.
-
-## 🚀 O que eu aprendi no Mundo 1:
-Até o exercício 023, já dominei os seguintes tópicos:
-* ✅ Configuração de ambiente (PyCharm + Git).
-* ✅ Tratamento de dados e tipos primitivos.
-* ✅ Operações aritméticas e módulos do Python.
-* ✅ Manipulação de textos (Strings).
-* ✅ Primeiras estruturas de controle e lógica.
-
-## 📊 Status do Portfólio
-- **Exercícios realizados:** 23
-- **Fase atual:** Finalizando Fundamentos (Mundo 1)
-- **Próximo objetivo:** Estruturas de Controle (Mundo 2)
-
-## 👤 Autor
-**Danilo Guimarães**
-* 🎓 Estudante de ADS - Estácio.
-* 📍 Campo Grande, Rio de Janeiro.
-* 💻 Máquina de Desenvolvimento: 128GB RAM / PyCharm.
+<h1 align="center">🐍 Python — Module 01: Logic Foundations</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exercises-23%20completed-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
 
 ---
-<div align="center">
-  <p>Focado na transição para a área de TI 🚀</p>
-</div>
+
+## 📌 About
+
+First module of my Python learning journey. 23 exercises covering the absolute fundamentals — from environment setup to first logic structures. Part of my path toward AI Engineering.
+
+## ✅ What I learned
+
+| Topic | Details |
+|---|---|
+| Environment setup | PyCharm + Git configuration |
+| Data types | int, float, str, bool |
+| Arithmetic operations | Python math and operator modules |
+| String manipulation | formatting, slicing, methods |
+| Basic control flow | first conditionals and logic |
+
+## 📊 Progress
+
+- **Exercises completed:** 23
+- **Next module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow)
+- **Overall progress:** Module 01 → 02 → 03 ✅ → 04 (in progress)
+
+## 👤 Author
+
+**Danilo Guimarães** — ADS Student @ Estácio | Aspiring AI Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloguimaraes-it/)
